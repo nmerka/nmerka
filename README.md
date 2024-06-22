@@ -3,7 +3,7 @@
     <h3>Data Analyst from Saint Petersburg</h3>
 </div>
 <div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt2MW9pNmFnNjljYmhidndoamNjcG1iY3U5M2tzMjVpMTN4dnh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIVMa4UTGiudk2FPh8/giphy.gif" width="100"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt2MW9pNmFnNjljYmhidndoamNjcG1iY3U5M2tzMjVpMTN4dnh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIVMa4UTGiudk2FPh8/giphy.gif" width="200"/>
 </div>
 <div id="socials" align="center">
  <a href="https://t.me/Nmerk9">
@@ -14,4 +14,4 @@
  </a>   
 </div> 
 <div id="header" align="center">
-<img src="https://komarev.com/ghpvc/?username=nmerka&style=flat-square&color=blue" alt=""/>   
+<img src="https://komarev.com/ghpvc/?username=nmerka&style=flat-square&color=blue" alt=""/>
