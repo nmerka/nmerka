@@ -7,4 +7,4 @@
 </div>
 <div id="socials" align="center">
   <img src="https://img.shields.io/badge/Mail-orange?logo=mail&logoColor=blue&style=for-the-badge" alt="Mail Badge"/>
-
+  <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=wight&style=for-the-badge" alt="Telegram Badge"/>
