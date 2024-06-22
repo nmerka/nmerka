@@ -22,3 +22,7 @@ I am a Data Analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YzN
 
 - :woman_student: Успешно окончила годовой курс по специальности аналитик данных у Яндекс Практикума.
 
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
