@@ -9,3 +9,6 @@
  <a href="https://t.me/Nmerk9">
    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=wight&style=for-the-badge" alt="Telegram Badge"/>
 </a>
+ <a href="mailto:natmerkur@yandex.ru">
+  <img src="https://img.shields.io/badge/Mail-orange?logo=mail&logoColor=blue&style=for-the-badge" alt="Mail Badge"/>
+ </a>    
