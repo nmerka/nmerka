@@ -15,3 +15,6 @@
 </div> 
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=nmerka&style=flat-square&color=blue" alt=""/>
+    
+### :woman_technologist::bar_chart:	:chart_with_upwards_trend: About Me :
+I am a Data Analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YzNnVzaGduOWhocjdicmJ5emx3MGx3M2h5Mjh0Nmc3NmJlZ2FhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"> from Saint Petersburg.
