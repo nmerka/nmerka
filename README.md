@@ -20,8 +20,5 @@
 I am a Data Analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YzNnVzaGduOWhocjdicmJ5emx3MGx3M2h5Mjh0Nmc3NmJlZ2FhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"> from Saint Petersburg.
 - :bar_chart:	 Я начинающий дата-аналитик, переходящий в эту область после долгой карьеры главным бухгалтером. Ищу возможности применить свои навыки и опыт в сфере анализа данных.
 
-- :seedling: Exploring Technical Content Writing.
+- :woman_student: Успешно окончила годовой курс по специальности аналитик данных у Яндекс Практикума.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
