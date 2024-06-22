@@ -11,4 +11,7 @@
 </a>
  <a href="mailto:natmerkur@yandex.ru">
   <img src="https://img.shields.io/badge/Mail-orange?logo=mail&logoColor=blue&style=for-the-badge" alt="Mail Badge"/>
- </a>    
+ </a>   
+</div> 
+<div id="header" align="center">
+<img src="https://komarev.com/ghpvc/?username=nmerka&style=flat-square&color=blue" alt=""/>   
