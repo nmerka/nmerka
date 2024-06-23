@@ -1,6 +1,6 @@
 <div id="header" align="center">
-    <h1>Hi there, I'm  Natalia </h1>
-    <h3>I am a Data Analyst <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YzNnVzaGduOWhocjdicmJ5emx3MGx3M2h5Mjh0Nmc3NmJlZ2FhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"> from Saint Petersburg.</h3>
+    <h1>Привет, меня зовут Наталья</h1>
+    <h3>Я дата-аналитик<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3YzNnVzaGduOWhocjdicmJ5emx3MGx3M2h5Mjh0Nmc3NmJlZ2FhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ww9Z3l8wl4szKyRIro/giphy.gif" width="30"> из Санкт-Петербурга</h3>
 </div>
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGt2MW9pNmFnNjljYmhidndoamNjcG1iY3U5M2tzMjVpMTN4dnh2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZIVMa4UTGiudk2FPh8/giphy.gif" width="200"/>
@@ -16,7 +16,7 @@
 <div id="header" align="center">
 <img src="https://komarev.com/ghpvc/?username=nmerka&style=flat-square&color=blue" alt=""/>
     
-### :woman_technologist::chart_with_upwards_trend: About Me/ Обо мне :
+### :woman_technologist::chart_with_upwards_trend: Обо мне :
 
 - :bar_chart: Я начинающий дата-аналитик, переходящий в эту область после долгой карьеры главным бухгалтером. 
 - :white_check_mark: Успешно окончила годовой курс по специальности аналитик данных у Яндекс Практикума.
@@ -25,7 +25,7 @@
 
 
 
-### :hammer_and_wrench: Languages and Tools/ Языки и инструменты :
+### :hammer_and_wrench: Языки и инструменты :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="50" height="50"/>&nbsp;
@@ -37,5 +37,5 @@
     
   ---
 
-### :fire: My Stats :
+### :fire: Моя статистика :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nmerka&theme=dark&background=000000)](https://git.io/streak-stats)
