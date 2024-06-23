@@ -32,7 +32,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/plotly/plotly-original-wordmark.svg" title="Plotly" alt="Plotly" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="Postgresql" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="numpy" alt="numpy" width="70" height="50"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/f1a5d5dcdd2d08565b8aa325adb68eaaf237c133cceb5a8426fbc04d5fecc5b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461626c6561752d3639623563633f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175" title="Tableu" alt="Tableu" width="80" height="50"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/f1a5d5dcdd2d08565b8aa325adb68eaaf237c133cceb5a8426fbc04d5fecc5b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461626c6561752d3639623563633f7374796c653d666f722d7468652d6261646765266c6f676f3d7461626c656175" title="Tableu" alt="Tableu" width="80" height="40"/>&nbsp;
+  <img src="https://camo.githubusercontent.com/af6c5f49426a00a23ac888da70eac771b4e006d3dbb6180f515cff30a2782fe7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a7570797465722d3639623563633f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572" title="Jupyter" alt="Jupyter" width="80" height="40"/>&nbsp;  
     
   ---
 
